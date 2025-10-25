@@ -1,3 +1,3 @@
 # SEDO-Regular-Exam-2025-01
 
-# exam prep 2
+DevOps exam prep 2
